@@ -1,0 +1,26 @@
+*{
+     background-color:  #fafaeb; 
+}
+.Parent{
+    color: #f80c18;
+    font-family: sans-serif;
+    font-weight: 500px;
+    font-style: oblique;
+}
+
+.Child1{
+    list-style: none;
+    line-height: 28px;
+    font-style: italic;
+    color: #f80c18;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.Child2{
+    color:blue;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 600;
+    font-style: oblique;
+}
